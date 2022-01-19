@@ -1,0 +1,12 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^2.7.12"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
